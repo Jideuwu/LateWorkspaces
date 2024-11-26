@@ -1,0 +1,70 @@
+    1  mkdir playground; cd playground
+    2  code modules.c
+    3  make modules
+    4  make modules
+    5  ./modules
+    6  ./modules
+    7  make modules
+    8  make modules
+    9  code mario.c
+   10  ./mario
+   11  make mario
+   12  make mario
+   13  ./mario
+   14  make mario
+   15  make mario
+   16  make mario
+   17  ./mario
+   18  make mario
+   19  make mario
+   20  ./mario
+   21  cd ..
+   22  mkdir temporal
+   23  cd temporal
+   24  ls
+   25  code mario.c
+   26  git status
+   27  git remote add origin https://github.com/Jideuwu/RP
+   28  git init
+   29  git remote add origin https://github.com/Jideuwu/RP
+   30  git status
+   31  git add mario.c
+   32  git commit -m "Escaleras de mario"
+   33  git push
+   34  git push -set-upstream origin main
+   35  git push --set-upstream
+   36  git push --set-upstream origin main
+   37  git pull
+   38  git init
+   39  git remote add origin https://github.com/Jideuwu/LateWorkspaces
+   40  git remote add main https://github.com/Jideuwu/LateWorkspaces
+   41  git branch main
+   42  git status
+   43  git push -u
+   44  ls
+   45  git push
+   46  git help config
+   47  git help config push.autoSsetupRemote
+   48  unminimize
+   49  cd ..
+   50  mkdir lateworks
+   51  cd lateworks
+   52  git status
+   53  git init
+   54  git status
+   55  git remote add origin https://github.com/Jideuwu/LateWorkspaces
+   56  code mario.c
+   57  git status
+   58  git add mario.c
+   59  git commit -m "Escaleras de mario"
+   60  git status
+   61  git push
+   62  git push --set-upstream origin main
+   63  git push
+   64  code examen.c
+   65  git status
+   66  git add examen.c
+   67  git status
+   68  git commit -m "Avance de examen 1"
+   69  git push
+   70  history > comandos.txt
